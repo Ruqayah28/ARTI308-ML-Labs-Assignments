@@ -1,3 +1,2 @@
-# Machine Learning Course
-This repository documents my learning journey throughout the Machine Learning course this semester, including experiments and practical implementations.
-I am Ruqayah, an Artificial Intelligence student, passionate about expanding my knowledge in machine learning and developing skills that support my growth in the AI field.
+# ARTI 308: Machine Learning Course 
+Hello! I'm Ruqayah, a junior Artificial Intelligence student with a strong passion for learning AI technologies and expanding my knowledge in this field. I am excited to take this Machine Learning course and develop models that provide meaningful insights, enhance understanding, and support decision-making. I am looking forward to strengthen my technical skills and apply machine learning techniques to solve real-world problems.
